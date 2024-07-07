@@ -2,11 +2,11 @@
 
 This React component provides a dynamic text highlighting feature based on scroll position. As users scroll down the page, the text gradually illuminates, enhancing the visual appeal and user experience. The component is designed to be easily integrated into any React application, with customizable options for highlighting styles and scroll sensitivity.
 
-Check the example, Feel Free to Follow, 
-# Check my work at https://mau-portfolio-three.vercel.app/
 # If you find this project, please consider starring it! :fork_and_knife: :star:
 
 ![Example](./public/use-demo.gif)
+
+Check my work at https://mau-portfolio-three.vercel.app/
 
 # Features:
 Smooth text illumination effect on scroll.
